@@ -1,0 +1,48 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Baloo 2', 'cursive';
+    color: white;
+    background-color: black;
+}
+
+.heading{
+    color: rgb(217, 4, 107);
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid black;
+    border-radius: 12px;
+    cursor: pointer;
+    font-family: cursive;
+    width: 55px;
+    background-color: rgb(79, 74, 74);
+    color: white;
+}
+
+.button:hover{
+    background-color:rgb(104, 103, 103) ;
+}
+
+.row {
+    margin: 8px;
+    /* padding: 45px; */
+}
+
+.row input{
+    font-size: 19px;
+    margin: 0;
+    padding: 14px 7px;
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+}

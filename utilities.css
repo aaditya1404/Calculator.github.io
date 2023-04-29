@@ -1,0 +1,60 @@
+.text-center {
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+}
+
+/* .bg-red{
+    background: red;
+} */
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+/* .m-w-size{
+    max-width: 7vw;
+} */
+
+.looks {
+    background-color: rgb(205, 15, 62);
+    color: whitesmoke;
+}
+
+.looks:hover{
+    background-color: rgb(255, 12, 73);
+    color: whitesmoke;
+}
+
+
+.yellow {
+    background-color: rgb(190, 76, 5);
+}
+
+.yellow:hover{
+    background-color: rgb(250, 97, 2);
+}
+
+.red{
+    background-color: rgb(205, 15, 62);
+    color: white
+}
+
+.red:hover{
+    background-color: rgb(255, 1, 81);
+    color: whitesmoke;
+}
+
+
+.top{
+    background-color: gray;
+    color: black;
+}
