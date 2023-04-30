@@ -20,28 +20,18 @@
     flex-direction: column;
 }
 
-/* .m-w-size{
-    max-width: 7vw;
-} */
 
 .looks {
-    background-color: rgb(217, 4, 107);
-    color: whitesmoke;
-}
-
-.looks:hover{
-    background-color: rgb(255, 12, 73);
+    background-image: linear-gradient(#12c2e9,#c471ed,#f64f59);
     color: whitesmoke;
 }
 
 
-.yellow {
-    background-color: rgb(190, 76, 5);
+
+.right_side_btn {
+    background-image: linear-gradient(to right,#CB356B,#BD3F32);
 }
 
-.yellow:hover{
-    background-color: rgb(250, 97, 2);
-}
 
 .red{
     background-color: rgb(205, 15, 62);
@@ -55,6 +45,10 @@
 
 
 .top{
-    background-color: gray;
+    background-color: rgb(91, 89, 89);
     color: black;
+}
+
+.c{
+    background-image: linear-gradient(to bottom right,#b92b27,#1565C0);
 }
