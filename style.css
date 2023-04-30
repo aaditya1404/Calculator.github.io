@@ -46,9 +46,9 @@ body {
 }
 
 .row input{
-    font-size: 19px;
+    font-size: 18px;
     margin: 0;
-    padding: 15px 3px;
+    padding: 20px 5px;
     border-style: none;
     border-radius: 12px;
     /* background-color: rgb(24, 24, 24); */
