@@ -48,9 +48,10 @@ body {
 .row input{
     font-size: 19px;
     margin: 0;
-    padding: 14px 7px;
-    border: 2px solid black;
+    padding: 15px 3px;
+    border-style: none;
     border-radius: 12px;
+    /* background-color: rgb(24, 24, 24); */
     background-color: black;
     color: white;
 }
